@@ -1,9 +1,5 @@
 <h1 align="center">Oi 👋, meu nome é Nathan Monteiro</h1>
-<h3 align="center">Buscando aprendizado!</h3>
-
 - 🚀 Estou cursando o 4 período em Ciência da Computação na UFES (CEUNES) 
-
-- 🌱 Atualmente estou aprendendo Java, um pouco de PROLOG e Estrutura de dados em linguagem C
 
 - 🔎 Você me acha em **nathanmont00@gmail.com**
 
