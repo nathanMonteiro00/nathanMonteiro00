@@ -9,7 +9,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="" target="_blank" rel="noreferrer"><img src="https://e7.pngegg.com/pngimages/780/934/png-clipart-html-logo-html5-logo-icons-logos-emojis-tech-companies-thumbnail.png" alt="html" width="40" height="40"/></a>
 <img src="https://logospng.org/wp-content/uploads/css-3.png" alt="css" width="40" height="40"/>
-<img src="https://www.imagensempng.com.br/wp-content/uploads/2023/05/Logo-JavaScript-Png-1024x1024.png"/>
+<img src="https://www.imagensempng.com.br/wp-content/uploads/2023/05/Logo-JavaScript-Png-1024x1024.png" alt="js" width="40" height="40"/>
 
 </p>
 
