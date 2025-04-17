@@ -95,7 +95,7 @@ Atualmente, estou cursando Ciência da Computação na UFES (CEUNES).
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathanMonteiro00&layout=compact&theme=github_dark)" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathanMonteiro00&layout=compact&theme=darkhub)" 
   />
 </p>
 
