@@ -17,7 +17,7 @@
   <h3 align="left">Atualmente me aprofundando em:</h3>
 <p align="left"> 
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" width="40" height="40"/>
 
 
           
