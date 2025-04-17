@@ -38,6 +38,7 @@ Atualmente, estou cursando Ciência da Computação na UFES (CEUNES).
 />
 
 <br/>
+<br/>
 
 ### 📝Atualmente me aprofundando em:
 
