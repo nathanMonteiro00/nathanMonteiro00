@@ -12,6 +12,11 @@
   
 </p>
 
+<p align="left"></p>
+
+  <h3 align="left">Atualmente me aprofundando em:</h3>
+<p align="left"> 
+
 
 
 
