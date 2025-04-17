@@ -37,6 +37,8 @@ Atualmente, estou cursando Ciência da Computação na UFES (CEUNES).
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
 
+<br/>
+
 ### 📝Atualmente me aprofundando em:
 
 <img 
@@ -53,7 +55,7 @@ Atualmente, estou cursando Ciência da Computação na UFES (CEUNES).
     title="Laravel"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
 <img 
     align="left" 
