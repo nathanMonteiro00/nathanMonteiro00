@@ -64,7 +64,7 @@ Atualmente, estou cursando Ciência da Computação na UFES (CEUNES).
     title="Laravel"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original-wordmark.svg" 
 />
 <br/>
 <br/>
