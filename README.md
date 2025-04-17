@@ -22,6 +22,25 @@ Atualmente, estou cursando Ciência da Computação na UFES (CEUNES).
 />
 <img 
     align="left" 
+    alt="Git" 
+    title="Git"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Python" 
+    title="Python"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
+
+### 📝Atualmente me aprofundando em:
+
+<img 
+    align="left" 
     alt="PHP" 
     title="PHP"
     width="30px" 
@@ -38,21 +57,12 @@ Atualmente, estou cursando Ciência da Computação na UFES (CEUNES).
 />
 <img 
     align="left" 
-    alt="Git" 
-    title="Git"
+    alt="Laravel" 
+    title="Laravel"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" 
 />
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
-
 <br/>
 <br/>
 
@@ -71,7 +81,7 @@ Atualmente, estou cursando Ciência da Computação na UFES (CEUNES).
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissakich&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathanMonteiro00&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
 </p>
