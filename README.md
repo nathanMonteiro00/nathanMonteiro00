@@ -45,11 +45,6 @@ Atualmente, estou cursando Ciência da Computação na UFES (CEUNES).
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
 
-<br/>
-<br/>
-
-###  📝Atualmente me aprofundando em:
-
 <img 
     align="left" 
     alt="PHP" 
@@ -58,14 +53,7 @@ Atualmente, estou cursando Ciência da Computação na UFES (CEUNES).
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
 />
-<img 
-    align="left" 
-    alt="JS" 
-    title="JS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
+
 <img 
     align="left" 
     alt="Laravel" 
@@ -74,6 +62,29 @@ Atualmente, estou cursando Ciência da Computação na UFES (CEUNES).
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" 
 />
+<br/>
+<br/>
+
+###  📝Atualmente me aprofundando em:
+
+<img 
+    align="left" 
+    alt="React" 
+    title="React"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />          
+/>
+
+<img 
+    align="left" 
+    alt="React" 
+    title="React"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />                 
+/>
+
 <br/>
 <br/>
 
