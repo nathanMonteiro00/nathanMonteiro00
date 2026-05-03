@@ -13,6 +13,7 @@ Estudante de Ciência da Computação na **UFES (CEUNES)** e sempre aprendendo a
 <img align="left" alt="Python" title="Python" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
 <img align="left" alt="PHP" title="PHP" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
 <img align="left" alt="Laravel" title="Laravel" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" />
+<img align="left" alt="MySQL" title="MySQL" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
 
 <br/>
 <br/>
@@ -20,6 +21,7 @@ Estudante de Ciência da Computação na **UFES (CEUNES)** e sempre aprendendo a
 ### 📚 Atualmente me aprofundando em
 
 <img align="left" alt="React" title="React" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+<img align="left" alt="Next.js" title="Next.js" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
 <img align="left" alt="TypeScript" title="TypeScript" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
 
 <br/>
@@ -30,27 +32,22 @@ Estudante de Ciência da Computação na **UFES (CEUNES)** e sempre aprendendo a
 ### 📊 GitHub Stats
 
 <p>
-  <img 
-    align="left" 
-    alt="Top Languages" 
-    height="180" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathanMonteiro00&layout=compact&theme=dark"
-  />
-  <img 
-    alt="GitHub Stats" 
-    height="180" 
-    src="https://github-readme-stats.vercel.app/api?username=nathanMonteiro00&show_icons=true&theme=dark&hide_border=true"
-  />
+  <img 
+    align="left" 
+    alt="Top Languages" 
+    height="180" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathanMonteiro00&layout=compact&theme=dark"
+  />
 </p>
 
 <br/>
 
 <p>
-  <img 
-    alt="GitHub Streak" 
-    src="https://streak-stats.demolab.com?user=nathanMonteiro00&theme=dark&hide_border=true"
-  />
+  <img 
+    alt="GitHub Streak" 
+    src="https://streak-stats.demolab.com?user=nathanMonteiro00&theme=dark&hide_border=true"
+  />
 </p>
 
 ---
