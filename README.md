@@ -54,7 +54,5 @@ Estudante de Ciência da Computação na **UFES (CEUNES)** e sempre aprendendo a
 
 ### 📫 Onde me encontrar
 
-<!-- Descomente e preencha os links que você tiver -->
-<!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/SEU-USUARIO) -->
-<!-- [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://SEU-SITE.com) -->
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:SEU-EMAIL@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nathan-monteiro-b016692a0)
