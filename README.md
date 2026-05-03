@@ -1,6 +1,6 @@
 # Opa, meu nome é Nathan Monteiro! 👋
 
-Estudante de Ciência da Computação na **UFES (CEUNES)**, apaixonado por desenvolvimento web e sempre aprendendo algo novo.
+Estudante de Ciência da Computação na **UFES (CEUNES)** e sempre aprendendo algo novo.
 
 ---
 
