@@ -21,8 +21,6 @@
 
 --- 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=nathanMonteiro00)](https://github.com/ryo-ma/github-profile-trophy)
-
 ### 📫 Onde me encontrar
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nathanmont00@gmail.com)
