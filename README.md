@@ -1,6 +1,12 @@
-# Opa, meu nome é Nathan Monteiro! 👋
+<p align="center">  
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0077B5&height=200&section=header&text=Nathan%20Monteiro&fontSize=60&animation=fadeIn&fontAlignY=40" alt="Header">
+</p> 
 
-Estudante de Ciência da Computação na **UFES (CEUNES)** e sempre aprendendo algo novo.
+<p align="left"> Estudante de Ciência da Computação na UFES (Campus São Mateus) e sempre aprendendo algo novo.</p>
+<p align="left">
+  <img src="https://img.shields.io/badge/Idade-25_anos-blue?style=flat-square" alt="Idade">
+  <img src="https://img.shields.io/badge/-Desenvolvedor Fullstack-green?style=flat-square" alt="Status">
+</p>
 
 ---
 
