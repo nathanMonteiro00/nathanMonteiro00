@@ -8,19 +8,26 @@
   <img src="https://img.shields.io/badge/-Desenvolvedor Fullstack-green?style=flat-square" alt="Status">
 </p>
 
----
-
 ### 🤖 Linguagens e Tecnologias
 
-[![My Skills](https://skillicons.dev/icons?i=ts,html,css,next,laravel,react,tailwind,python,c)](https://skillicons.dev)
-
+[![My Skills](https://skillicons.dev/icons?i=ts,html,css,next,laravel,react,tailwind,python,c,mysql)](https://skillicons.dev)
 <br/>
+
+---
 
 ### 📚 Atualmente me aprofundando em
 
 [![My Skills](https://skillicons.dev/icons?i=cs,net)](https://skillicons.dev)
 
-<br/>
+--- 
+
+### 📊 Atividade no GitHub
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nathanMonteiro00&theme=tokyonight" width="100%" alt="Detalhes do Perfil">
+</p>
+
+---
 
 ### 📫 Onde me encontrar
 
